@@ -7,7 +7,7 @@ Welcome to my GitHub profile, where you can explore some of my projects and cont
 
 <p style="font-size: 16px;">
 
-- 💼 Data Analyst
+- 💼 Data Analyst | Business Intelligence Analyst 
 - 🌱 I’m currently learning Python 
 - 💬 Ask me about Data
 - 📫 How to reach me: dadegoke914@gmail.com
