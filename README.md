@@ -28,3 +28,11 @@ Here are some projects I'm particularly proud of:
 - Walmart Sales Data Analysis: This project involves an in-depth analysis of Walmart's sales data using MySQL queries. The queries provide valuable insights into various aspects of Walmart's day-to-day business activities, with a focus on product and sales aspect. 
 
 </p>
+
+Let's Connect 🤝
+
+LINKEDIN: Daniel Adegoke
+TWITTER: 
+
+
+</p>
