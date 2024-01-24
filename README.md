@@ -23,8 +23,8 @@ Featured Projects ✨
 
 Here are some projects I'm particularly proud of:
 
-Credit Risk Analysis: The Credit Risk Customers dataset is a comprehensive collection of information pertaining to individuals who have applied for loans.
-Amazon Sentiment Analysis: These analysis provides a comprehensive collection of product reviews in the electronics category from Amazon. Gain insights into user sentiments, analyze product feedback, and explore trends in customer satisfaction.
-Walmart Sales Data Analysis: This project involves an in-depth analysis of Walmart's sales data using MySQL queries. The queries provide valuable insights into various aspects of Walmart's day-to-day business activities, with a focus on product and sales aspect. 
+- Credit Risk Analysis: The Credit Risk Customers dataset is a comprehensive collection of information pertaining to individuals who have applied for loans.
+- Amazon Sentiment Analysis: These analysis provides a comprehensive collection of product reviews in the electronics category from Amazon. Gain insights into user sentiments, analyze product feedback, and explore trends in customer satisfaction.
+- Walmart Sales Data Analysis: This project involves an in-depth analysis of Walmart's sales data using MySQL queries. The queries provide valuable insights into various aspects of Walmart's day-to-day business activities, with a focus on product and sales aspect. 
 
 </p>
