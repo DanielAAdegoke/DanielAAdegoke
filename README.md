@@ -32,7 +32,7 @@ Here are some projects I'm particularly proud of:
 Let's Connect 🤝
 
 LINKEDIN: Daniel Adegoke
-TWITTER: 
+
 
 
 </p>
